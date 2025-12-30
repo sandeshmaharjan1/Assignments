@@ -16,7 +16,7 @@ int main(){
     printf("Enter two numbers\n");
     scanf("%d%d", &num1, &num2);
 
-    switch (choice)g
+    switch (choice)
     {
         case 1:
         printf("Add: %d", num1+num2);
